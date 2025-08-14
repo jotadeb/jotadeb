@@ -13,11 +13,8 @@ Atualmente sou calouro em Engenharia de Software na Unicesumar e estou trabalhan
 
 <h2> <p align="center"> 👾 Linguagens de Programação e Ferramentas Auxiliares </h2></p>
 <div align="center">
-  <a href="https://www.lua.org/"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/lua/lua.png?raw=true" height="50" >
-  <a href="https://www.python.org/"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.png?raw=true" height="50">
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.png?raw=true" height="50">
-  <a href="https://excel.cloud.microsoft/pt-br/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/509px-Microsoft_Excel_2013-2019_logo.svg.png" height="50">
-  <a href="https://word.cloud.microsoft/pt-br/"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-word-2013-logo.svg" height="50">
+  <a href="https://www.c-language.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="50" >
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.png?raw=true" height="50"  <a href="https://word.cloud.microsoft/pt-br/"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-word-2013-logo.svg" height="50">
 </div>
 
 <h2><p align="center"> 📩 Entre em Contato Comigo!</h2></p>
