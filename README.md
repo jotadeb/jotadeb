@@ -1,8 +1,9 @@
-<hr>
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif" alt="Mario Dev Gif" style="width:auto; height:auto">
+
 
 <!-- Apresentacao -->
 <div align="center">
+<hr>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif" alt="Mario Dev Gif" style="width:auto; height:auto">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8C45CD&width=435&lines=Prazer%2C+eu+sou+Jo%C3%A3o+Daniel!" alt="Typing SVG" /></a>
 </div>
 <hr>
