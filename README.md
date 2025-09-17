@@ -1,28 +1,43 @@
-#
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif" height="600" width="1200"><br>
-#
+<hr>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif" alt="Mario Dev Gif" style="width:auto; height:auto">
 
-<h1> <p align="center"> Prazer <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/200w.gif?cid=6c09b9528suyyyypetim6ts9ws6es7w10ausmsmk1dzfzto0&ep=v1_stickers_search&rid=200w.gif&ct=s" width="50"> eu sou João Daniel!</p> </h1>
+<!-- Apresentacao -->
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8C45CD&width=435&lines=Prazer%2C+eu+sou+Jo%C3%A3o+Daniel!" alt="Typing SVG" /></a>
+</div>
+<hr>
+<!-- Apresentacao -->
+<h2> 🚀 Quem eu sou? </h2>
 
-# 🚀 Quem eu sou?
+<!-- Visitas do Perfil -->
 <img src="https://komarev.com/ghpvc/?username=jotadeb-github-username&color=blueviolet">
 
-Me chamo João Daniel de Barros, tenho 19 anos e sou apaixonado pelo mundo dos jogos, tanto no desenvolvimento (gamedev) quanto no design (game design). Meu objetivo é criar experiências únicas e divertidas, explorando minha criatividade através da programação.
+- 👋 Me chamo João Daniel de Barros e tenho 19 anos.
+- 📌 Moro em Maringá, PR.
+- 🎓 Estudante de **Engenharia de Software** na **Unicesumar**.
+- ✍ Estudando **HTML**, **CSS** e **Javascript**.
+- 📚 Sempre em busca de aprender, criar e compartilhar conhecimento.
 
-Atualmente sou calouro em Engenharia de Software na Unicesumar e estou trabalhando em meu primeiro projeto de jogo, em equipe com outros programadores. Busco sempre aproveitar todas as oportunidades que surgem para evoluir profissionalmente, adquirir novas experiências e crescer dentro da área de desenvolvimento de jogos.
+<!-- HARDSKILLS -->
+<h2 align="center"> 👾 Linguagens de Programação e Ferramentas Auxiliares </h2> 
 
-<h2> <p align="center"> 👾 Linguagens de Programação e Ferramentas Auxiliares </h2></p>
 <div align="center">
-  <a href="https://www.c-language.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="50">
-  <a href="https://word.cloud.microsoft/pt-br/"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-word-2013-logo.svg" height="50">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,c" height="50"/>
 </div>
 
-<h2><p align="center"> 📩 Entre em Contato Comigo!</h2></p>
+<!-- GITHUB STATS -->
+<h2 align="center"> 📊 Github Stats </h2>
 <div align="center">
-  <a href="mailto:joaodaniel1243@gmail.com"><img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=red">
+  <img width="398" src="https://github-readme-stats-phi-amber-83.vercel.app/api?username=jotadeb&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub stats" />
+  <img width="398" src="https://github-readme-stats-phi-amber-83.vercel.app/api/top-langs/?username=jotadeb&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800" alt="Top Langs" />
+</div>
+
+    
+<!-- Formas de Contato -->
+<h2 align="center"> 📩 Entre em Contato Comigo!</h2>
+<div align="center">
+  <a href="mailto:joaodaniel1243@gmail.com"><img src="https://img.shields.io/badge/joaodaniel1243@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-daniel-de-barros-b87663362/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a href="https://wa.me/4499710312"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   <a href="https://www.instagram.com/jaum_daniel3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
-
-          
